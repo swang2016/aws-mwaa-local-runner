@@ -1,0 +1,6 @@
+--constraint "https://raw.githubusercontent.com/apache/airflow/constraints-2.0.2/constraints-3.7.txt"
+requests
+pandas
+snowflake-connector-python
+apache-airflow-providers-snowflake
+snowflake-sqlalchemy
