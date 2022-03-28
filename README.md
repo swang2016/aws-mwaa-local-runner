@@ -39,7 +39,7 @@ docker/
 ## Get started
 
 ```bash
-git clone https://github.com/aws/aws-mwaa-local-runner.git
+git clone https://github.com/swang2016/aws-mwaa-local-runner.git
 cd aws-mwaa-local-runner
 ```
 
@@ -104,7 +104,7 @@ Collecting aws-batch (from -r /usr/local/airflow/dags/requirements.txt (line 1))
   Downloading https://files.pythonhosted.org/packages/5d/11/3aedc6e150d2df6f3d422d7107ac9eba5b50261cf57ab813bb00d8299a34/aws_batch-0.6.tar.gz
 Collecting awscli (from aws-batch->-r /usr/local/airflow/dags/requirements.txt (line 1))
   Downloading https://files.pythonhosted.org/packages/07/4a/d054884c2ef4eb3c237e1f4007d3ece5c46e286e4258288f0116724af009/awscli-1.19.21-py2.py3-none-any.whl (3.6MB)
-    100% |████████████████████████████████| 3.6MB 365kB/s 
+    100% |████████████████████████████████| 3.6MB 365kB/s
 ...
 ...
 ...
